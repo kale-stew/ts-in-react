@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/intellisense.dfb1e2e5.gif"
   },
   {
-    "revision": "d9af47b6603edbeee70c",
+    "revision": "8a98bb6b0d2f953ba81b",
     "url": "/ts-in-react/static/css/main.15d84846.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/js/runtime~main.54005517.js"
   },
   {
-    "revision": "09dfff618f0cff650934",
-    "url": "/ts-in-react/static/js/2.f90cadc8.chunk.js"
+    "revision": "6e3c617863df0e01d132",
+    "url": "/ts-in-react/static/js/2.44f81f77.chunk.js"
   },
   {
     "revision": "b40cbdd45c51a539183dcfdb465c31e9",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/new-formidable.8cae3f23.png"
   },
   {
-    "revision": "d9af47b6603edbeee70c",
-    "url": "/ts-in-react/static/js/main.d767071f.chunk.js"
+    "revision": "8a98bb6b0d2f953ba81b",
+    "url": "/ts-in-react/static/js/main.d9cbc35f.chunk.js"
   },
   {
     "revision": "cfdc163035342f71d33e482de3f76df7",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/warning.a3462b4e.png"
   },
   {
-    "revision": "38416e8c7ce50792371e1129984581fd",
+    "revision": "4910086caaa2a97936f74aeccf837c48",
     "url": "/ts-in-react/index.html"
   }
 ];
