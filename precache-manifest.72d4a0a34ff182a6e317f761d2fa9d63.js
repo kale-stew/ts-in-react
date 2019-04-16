@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/intellisense.dfb1e2e5.gif"
   },
   {
-    "revision": "8a98bb6b0d2f953ba81b",
+    "revision": "93ab759ac952c6c59864",
     "url": "/ts-in-react/static/css/main.15d84846.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/new-formidable.8cae3f23.png"
   },
   {
-    "revision": "8a98bb6b0d2f953ba81b",
-    "url": "/ts-in-react/static/js/main.d9cbc35f.chunk.js"
+    "revision": "93ab759ac952c6c59864",
+    "url": "/ts-in-react/static/js/main.584076d3.chunk.js"
   },
   {
     "revision": "cfdc163035342f71d33e482de3f76df7",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ts-in-react/static/media/warning.a3462b4e.png"
   },
   {
-    "revision": "4910086caaa2a97936f74aeccf837c48",
+    "revision": "b28b56c87ac771c4ca03c686360564fe",
     "url": "/ts-in-react/index.html"
   }
 ];
