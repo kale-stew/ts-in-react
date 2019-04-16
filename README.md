@@ -17,6 +17,7 @@ Some good places to get started with TypeScript:
 - https://typescriptcourses.com/typescript-fundamentals
 - https://www.typescriptlang.org/play
 - https://basarat.gitbooks.io/typescript
+- https://facebook.github.io/create-react-app/docs/adding-typescript
 
 ## Acknowledgements
 
